@@ -16,8 +16,8 @@
         }
     ],
     "require": {
-        "php": "^8.0",
-        "illuminate/support": "^8.0",
+        "php": "8.*",
+        "illuminate/support": "10.*",
         "yabhq/laravel-mint": "^1.0.2"
     },
     "require-dev": {
